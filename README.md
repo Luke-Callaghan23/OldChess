@@ -1,0 +1,3 @@
+I was going through old code to commit to my GitHub to save for the future, and I found these three separate versions of Chess that I programmed ages ago.  Nothing is particularly new or impressive about these implementations of Chess and I know for certain that I could (and have) written much, much better versions now.  But I remember my first time writing Chess in Java as the first project that made me fall in love with programming, so I decided to include these three iterations as a sinlge repo, mostly for nostalgia.
+
+(I also included the first TicTacToe program I wrote, as well, because I remember that project as a precursor to my Chess programs).
